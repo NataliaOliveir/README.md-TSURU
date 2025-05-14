@@ -9,7 +9,8 @@
 ## Passo a Passo
 
 ### 1. Corte o Papel
-![Passo 1](imagens/passo01.jpg)
+![Passo 1![WhatsApp Image 2025-05-14 at 16 48 28](https://github.com/user-attachments/assets/a1fcca2f-fdbf-49b5-9e1a-c020477dd784)
+]()
 Corte um quadrado de 15 cm no papel dupla face da cor de sua preferência.
 
 ---
