@@ -4,12 +4,12 @@
 ##  Materiais Necessários
 
 - 1 folha de papel dupla face (15 cm x 15 cm), na cor de sua preferência.
+![passo 1 md](https://github.com/user-attachments/assets/9480cae7-83cf-4378-b3f2-b1461a883040)
 
 ---
 ## Passo a Passo
 
 ### 1. Corte o Papel
-![Passo 1!](imagens/https://github.com/user-attachments/assets/5b3b007c-0e1d-48d7-be51-64bb186d225c)
 
 )
 
