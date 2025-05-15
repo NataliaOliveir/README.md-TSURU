@@ -1,49 +1,38 @@
 # Como Fazer um Tsuru
 
 
-##  Materiais Necessários
-
-- 1 folha de papel dupla face (15 cm x 15 cm), na cor de sua preferência.
-![passo 1 md](https://github.com/user-attachments/assets/9480cae7-83cf-4378-b3f2-b1461a883040)
 
 ---
 ## Passo a Passo
 
-### 1. Corte o Papel
+### 1.Corte um quadrado de 15 cm no papel dupla face da cor de sua preferência.
+![20 md](https://github.com/user-attachments/assets/e9b4aacf-68a4-4cf9-8867-bc9768feb3a4)
 
 )
 
 
-Corte um quadrado de 15 cm no papel dupla face da cor de sua preferência.
 
----
 
-### 2. Coloque na Posição Diagonal
-![Passo 2](imagens/passo02.jpg)
-Vire o papel com o lado sem cor para cima, na forma de losango.
+2.Vire o papel com o lado sem cor para cima, na forma de losango e dobre ao meio 
+![passo2 md](https://github.com/user-attachments/assets/5d6b4008-bfc1-47a7-94cf-de4b85a1a98a)
 
----
+### 3. Inverta a Posição
 
-### 3. Dobre ao Meio (Diagonal)
-![Passo 3](imagens/passo03.jpg)
-Una as pontas opostas e marque bem a dobra.
-
----
-
-### 4. Inverta a Posição
-![Passo 4](imagens/passo04.jpg)
+![passo 1 md](https://github.com/user-attachments/assets/9e2adeff-3d43-4a58-9854-1a63848532b1)
 Gire o triângulo formado, com a base para cima e a ponta para baixo.
 
 ---
 
-### 5. Una as Laterais
-![Passo 5](imagens/passo05.jpg)
+### 4. Una as Laterais
+![passo  3md](https://github.com/user-attachments/assets/c771fd1a-a5b2-4b3c-972a-5dfb534a06f5)
+
 Dobre unindo as laterais da base, formando um novo triângulo menor.
 
 ---
 
 ### 6. Levante a Ponta
-![Passo 6](imagens/passo06.jpg)
+![passo 6 md](https://github.com/user-attachments/assets/dd93a719-3b8b-46f4-b7f2-dd6f0e09ef2b)
+
 Levante a pontinha superior (apenas a camada de cima).
 
 ---
@@ -55,7 +44,8 @@ Separe as laterais e una a ponta com o bico inferior.
 ---
 
 ### 8. Repita no Outro Lado
-![Passo 8](imagens/passo08.jpg)
+![passo 7 md](https://github.com/user-attachments/assets/4951ab5d-897b-4352-ba9e-829c752f03d9)
+
 Vire o papel e repita os passos anteriores.
 
 ---
@@ -67,25 +57,29 @@ Dobre as laterais, marque bem, dobre o bico superior e depois desdobre tudo.
 ---
 
 ### 14 a 16. Levante e Modele o Triângulo Interno
-![Passo 14-16](imagens/passo14-16.jpg)
+![passo 7 md](https://github.com/user-attachments/assets/05dd7d4d-0570-439e-b8f0-9232b63c6d3c)
+
 Forme um triângulo invertido e dobre suas laterais.
 
 ---
 
 ### 17 a 20. Dobre o Outro Lado
-![Passo 17-20](imagens/passo17-20.jpg)
+![passo 9 md](https://github.com/user-attachments/assets/24dc6627-c892-4d28-928e-4a1e02125e4a)
+0.jpg)
 Vire o trabalho e repita os mesmos passos.
 
 ---
 
 ### 21 a 23. Modele o Corpo
-![Passo 21-23](imagens/passo21-23.jpg)
+[passo  md](https://github.com/user-attachments/assets/85781dd8-4a9b-4336-a54d-bea24a1b8f3a)
+.jpg)
 Dobre as laterais novamente e una-as ao centro.
 
 ---
 
 ### 24 a 26. Forme a Base
-![Passo 24-26](imagens/passo24-26.jpg)
+![15 md](https://github.com/user-attachments/assets/425e6795-dc5d-4534-9f9d-370353aa26d5)
+
 Dobre as pontas inferiores até a marca superior e feche os lados.
 
 ---
